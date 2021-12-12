@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "Ciclo",
+        "enviado",
+        "Enviar",
+        "Estamos",
+        "grupo",
+        "Mensaje",
+        "prueba",
+        "semana",
+        "sendgrid",
+        "texto",
+        "twilio",
+        "utilizando",
+        "whatsapp"
+    ],
+    "markdownlint.config": {
+        "MD028": false,
+        "MD025": {
+            "front_matter_title": ""
+        }
+    }
+}
